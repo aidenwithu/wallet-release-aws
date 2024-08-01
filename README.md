@@ -1,4 +1,6 @@
 ## wallet-release
+
+- [2024.08.02_2](build-log/20240802-ash.md)
 - [2024.08.02](build-log/20240802.md)
 - [2024.08.01-spike](build-log/20240801-spike.md)
 - [2024.08.01](build-log/20240801.md)
