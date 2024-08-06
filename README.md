@@ -1,5 +1,6 @@
 ## wallet-release
 
+- [20240806-spike](build-log/20240806-spike.md)
 - [2024.08.06](build-log/20240806.md)
 - [2024.08.05-02](build-log/20240805-spike.md)
 - [2024.08.05](build-log/20240805.md)
