@@ -1,5 +1,6 @@
 ## wallet-release
 
+- [2024.09.02](build-log/20240902.md)
 - [2024.08.20](build-log/20240820.md)
 - [2024.08.16](build-log/20240816.md)
 - [2024.08.14](build-log/20240814.md)
